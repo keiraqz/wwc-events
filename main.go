@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	// "github.com/keiraqz/WWC/config"
-	"github.com/keiraqz/WWC/app"
+	"github.com/keiraqz/wwc-events/app"
 	// "github.com/keiraqz/WWC/logger"
 )
 
